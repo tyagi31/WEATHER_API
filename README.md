@@ -3,4 +3,7 @@ A WEB APP THAT RESPONDS WITH CURRENT LOCATION WEATHER OR PROMPTED LOCATION WEATH
 
 ![image](https://github.com/tyagi31/WEATHER_API/assets/93461212/5f24a077-4c5e-4261-9e8e-74554ad93491)
 
+![image](https://github.com/tyagi31/WEATHER_API/assets/93461212/e97f08ce-99fc-4b5f-b1b9-7601529a886e)
+
+
 
